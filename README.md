@@ -1,3 +1,3 @@
 # Use Popcorn
 
-Project in Jonas Smedtmann's Ultmiate React Course. Built with React and connection to omdb
+Project in Jonas Schmedtmann's Ultmiate React Course. Built with Create React App and connect to omdb
